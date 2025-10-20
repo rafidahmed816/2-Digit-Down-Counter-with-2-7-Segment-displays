@@ -22,5 +22,5 @@
 
 5. Run the simulation.
 
-Thank you .
+
 If you any query, just create an issue. 
